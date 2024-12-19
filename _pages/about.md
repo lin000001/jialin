@@ -27,31 +27,27 @@ My name is Jialin Wu, and I am a final-year master's student at USSLAB, Zhejiang
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
 
 **Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities](https://github.com)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Jialin Wu**, Kaikai Pan, Yanjiao Chen, Jiangyi Deng, Shengyuan Pang, Wenyuan Xu, **IEEE MetaCom 2024**
+
+- [Prompt-Independent Safe Decoding to Restrain Unsafe Image Generation for Text-to-Image Models against White-Box Adversary ]([https://github.com](https://openreview.net/forum?id=bzB7OIbITu))
+
+Shengyuan Pang, Jiangyi Deng, **Jialin Wu**, Yanjiao Chen, Huanlong Zhong, Xinfeng Li, Jie Zhang, Wenyuan Xu, **Under reivew**
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-2024* Outstanding graduate students, Zhejiang University. 
+- *2023-2024* National Scholarship, Zhejiang University.
+- *2019-2020* First-class scholarship, Outstanding Student Cadre, Nanchang University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2025.03 (now)*, Zhejiang University, Master in Electrical Engineering. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - present*, Crypto&Privacy lab, Ant Research, Ant Group, Hangzhou, Zhejiang, China.
+- *2024.06 - 2024.10*, Trust and Safety, AIGC Safety, ByteDance, Hangzhou, Zhejiang, China.
