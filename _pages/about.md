@@ -29,7 +29,7 @@ My name is Jialin Wu, and I am a final-year master's student at USSLAB, Zhejiang
 
 [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
 
-**Jialin Wu\***, Jiangyi Deng\*, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
+**Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
 
 [Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities](https://github.com)
 
