@@ -1,0 +1,1 @@
+My name is Jialin Wu, and I am a final-year master's student at USSLAB, Zhejiang University, majoring in Electrical Engineering. My current supervisors are Prof. Wenyuan Xu and Prof. Yanjiao Chen. My research primarily focuses on AI security and privacy, with a specific emphasis on the security and safety of multimodal large language models (LLMs).
