@@ -4,7 +4,7 @@
 
 **Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
 
-[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models]
+EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models
 
 **Jialin Wu**, Kecen Li, Zhicong Huang, Xinfeng Li, Xiaofeng Wang, Cheng Hong. **IEEE S&P 2026** (CCF-A, Big4)
 
