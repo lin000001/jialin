@@ -4,9 +4,10 @@
 
 **Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
 
-[Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities](https://github.com)
+[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models]
 
-**Jialin Wu**, Kaikai Pan, Yanjiao Chen, Jiangyi Deng, Shengyuan Pang, Wenyuan Xu, **IEEE MetaCom 2024**
+**Jialin Wu**, Kecen Li, Zhicong Huang, Xinfeng Li, Xiaofeng Wang, Cheng Hong. **IEEE S&P 2026** (CCF-A, Big4)
+
 
 [Prompt-Independent Safe Decoding to Restrain Unsafe Image Generation for Text-to-Image Models against White-Box Adversary ]([https://github.com](https://openreview.net/forum?id=bzB7OIbITu))
 
