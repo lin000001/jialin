@@ -23,6 +23,6 @@ Legilimens is a practical and unified content moderation framework that achieves
 </div>
 </div>
 
-[Prompt-Independent Safe Decoding to Restrain Unsafe Image Generation for Text-to-Image Models against White-Box Adversary ]([https://github.com](https://openreview.net/forum?id=bzB7OIbITu))
+[PATRONUS: Safeguarding Text-to-Image Models against White-Box Adversaries](https://openreview.net/forum?id=bzB7OIbITu](https://openreview.net/forum?id=vR2PVPNGXz&referrer=%5Bthe%20profile%20of%20Jialin%20Wu%5D(%2Fprofile%3Fid%3D~Jialin_Wu4)
 
 Shengyuan Pang, Jiangyi Deng, **Jialin Wu**, Yanjiao Chen, Huanlong Zhong, Xinfeng Li, Jie Zhang, Wenyuan Xu
