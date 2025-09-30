@@ -1,12 +1,12 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./images/Legilimens.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./images/Legilimens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/pdf/2408.15488)
 
 **Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2026</div><img src='./images/EnchTable.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2026</div><img src='./images/EnchTable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models
 
