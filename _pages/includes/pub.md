@@ -2,7 +2,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2026</div><img src='./images/EnchTable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models
+[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)
 **Jialin Wu**, Kecen Li, Zhicong Huang, Xinfeng Li, Xiaofeng Wang, Cheng Hong. 
 
 **IEEE S&P 2026** (CCF-A, Big4)
