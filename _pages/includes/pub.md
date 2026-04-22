@@ -5,7 +5,7 @@
 [EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)
 **Jialin Wu**, Kecen Li, Zhicong Huang, Xinfeng Li, Xiaofeng Wang, Cheng Hong. 
 
-**IEEE S&P 2026** (CCF-A, Big4) | [[Code]](https://github.com/AntCPLab/EnchTable) | [[HuggingFace Model]](https://huggingface.co/linzju/Bio-Medical-Llama-3-8B_EnchTable_FFN)
+**IEEE S&P 2026** (CCF-A, Big4) <a href="https://github.com/AntCPLab/EnchTable">[Code]</a> <a href="https://huggingface.co/linzju/Bio-Medical-Llama-3-8B_EnchTable_FFN">[Model]</a>
 
 EnchTable is a framework designed to transfer safety alignment to fine-tuned downstream models. EnchTable effectively preserves model utility while significantly improving safety across diverse architectures and task domains.
 </div>
@@ -17,7 +17,7 @@ EnchTable is a framework designed to transfer safety alignment to fine-tuned dow
 
 **Jialin Wu**, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, Xinfeng Li, Wenyuan Xu. 
 
-**ACM CCS 2024** (CCF-A, Big4) | [[Code]](https://github.com/lin000001/Legilimens)
+**ACM CCS 2024** (CCF-A, Big4) <a href="https://github.com/lin000001/Legilimens">[Code]</a>
 
 Legilimens is a practical and unified content moderation framework that achieves effective and efficient moderation by extracting conceptual features from chat-oriented LLMs, despite their conversational fine-tuning.
 </div>
