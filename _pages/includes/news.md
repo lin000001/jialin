@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Revis was accepted by ICML 2026!
 - *2025.09*: &nbsp;🎉 EnchTable was accepted by IEEE S&P 2026!
 - *2025.06*: &nbsp;🎉 Graduated and joined Ant Group.
 - *2024.12*: &nbsp;✨ Started an internship at Ant CPLab.
