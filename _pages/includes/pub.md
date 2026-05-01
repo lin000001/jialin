@@ -1,5 +1,17 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='./images/revis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2602.11824)
+
+**Jialin Wu**, Wei Shi, Han Shen, Peigui Qi, Kunsheng Tang, Zhicong Huang, Binghao Wang, Zhou Yang.
+
+**ICML 2026** (CCF-A) <a href="https://github.com/antgroup/Revis">[Code]</a>
+
+Revis is a sparse latent steering framework for mitigating object hallucination in large vision-language models. It identifies and steers hallucination-related latent directions, reducing hallucinated object descriptions while preserving visual understanding ability.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2026</div><img src='./images/EnchTable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880)
