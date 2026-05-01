@@ -8,7 +8,7 @@
 
 **ICML 2026** (CCF-A) <a href="https://github.com/antgroup/Revis">[Code]</a>
 
-Revis is a sparse latent steering framework for mitigating object hallucination in large vision-language models. It identifies and steers hallucination-related latent directions, reducing hallucinated object descriptions while preserving visual understanding ability.
+Revis is a sparse latent steering framework for mitigating object hallucination in large vision-language models. 
 </div>
 </div>
 
