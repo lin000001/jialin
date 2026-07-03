@@ -1,5 +1,9 @@
 # 📚 Services
-**Journal Reviewer**: ACM Transactions on Privacy and Security
+
+**Journal Reviewer**: ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC)
+
+**Conference Reviewer**: ICML, NIPS
+
 # 📖 Educations
 - *2022.09 - 2025.06*, Zhejiang University, Master in Electrical Engineering. 
 
