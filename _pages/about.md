@@ -20,5 +20,4 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-# 🗺️ Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=Krpnl5cTHvMy6_z9zG8Q87UtpViMtI1ckKTXFp419dc&cl=ffffff&w=300&co=2d78ad&cmo=3acc3a&cmn=ff5353'></script>
+
